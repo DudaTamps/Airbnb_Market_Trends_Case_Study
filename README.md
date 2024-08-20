@@ -7,8 +7,10 @@ Welcome to New York City, one of the most-visited cities in the world. With high
 This project was inspired by and based on a case study conducted on the [DataCamp](https://www.datacamp.com/) platform.
 
 ## Quick links:
-[Data Source](https://www.datacamp.com/) 
+[Data Source](https://www.datacamp.com/)
+
 [Notebook](https://github.com/DudaTamps/airbnb_market_trends/blob/main/notebook%20(1).ipynb)
+
 [Tableau viz](https://public.tableau.com/app/profile/eduarda.tampelini/viz/AirbnbMarketTrends/Painel1)
 
 ## Project Structure
@@ -52,6 +54,7 @@ In this project, using *Python Pandas*, we performed the following steps:
 
 ### 4. Visualizations in Tableau
 link: https://public.tableau.com/app/profile/eduarda.tampelini/viz/AirbnbMarketTrends/Painel1
+
 In addition to the Python analysis, some visualizations were created in *Tableau* to illustrate specific insights:
 - *Average Prices by Neighborhood*: An overview of the average stay prices across different neighborhoods in New York.
 - *Average Prices by Room Type*: A comparison of average prices among room types (shared room, private room, entire home/apartment).
